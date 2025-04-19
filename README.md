@@ -82,7 +82,7 @@ All contacts are stored in a human-readable file:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/\saraanbih/Contact-Manager.git
+   git clone https://github.com/saraanbih/Contact-Manager.git
    ```
 2. Open the project in **Visual Studio** or **VS Code**.
 3. Run the application:
