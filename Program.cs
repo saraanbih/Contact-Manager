@@ -12,7 +12,6 @@ namespace Contact_Manager
 
             while (true)
             {
-                Console.ReadKey();
                 Console.Clear();
                 Console.WriteLine("\n--- Contact Manager ---");
                 Console.WriteLine("1. Add Contact");
@@ -101,6 +100,7 @@ namespace Contact_Manager
                         Console.WriteLine("Invalid option. Try again.");
                         break;
                 }
+                Console.ReadKey();
             }
         }
     }
